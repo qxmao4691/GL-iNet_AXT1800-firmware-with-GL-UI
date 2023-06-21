@@ -8,6 +8,8 @@ feeds:
 packages:
   - dnsmasq-full
   - luci-app-openclash
+  - luci-app-passwall
+  - luci-app-ssr-plus
   - luci-theme-argon-2102
   - luci-app-argon-config
   - luci-app-ttyd
